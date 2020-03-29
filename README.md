@@ -1,5 +1,7 @@
 <h1>Super Shapes</h1>
 
+<img src="![supershape](https://user-images.githubusercontent.com/49375534/77838192-fc6f7100-7147-11ea-92b4-e271e43d9f6d.jpg)">
+
 <h3>I used P5.js to simulate a supershape according to a certain value M</h3>
 
 **How to see the project?**
