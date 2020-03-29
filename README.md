@@ -1,4 +1,4 @@
-**I used P5.js to simulate a supershape according to a certain value M**
+<h1>I used P5.js to simulate a supershape according to a certain value M</h1>
 
 **How to see the project?**
 
